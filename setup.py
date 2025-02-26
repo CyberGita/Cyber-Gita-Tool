@@ -13,10 +13,10 @@ init(autoreset=True)
 
 class CyberGitaToolkit:
     def __init__(self):
-        self.version = "2.1"
+        self.version = "1.0"
         self.company = "Cyber Gita"
-        self.contact = "contact@cybergita.in"
-        self.website = "https://cybergita.in"
+        self.contact = "info@cybergita.in"
+        self.website = "https://cybergita.com"
         self.banner = f"""
 {Fore.RED}╔═╗┬ ┬┌─┐┬┌─┐ ┬   ╔═╗┬┌┬┐┌─┐┬─┐
 {Fore.YELLOW}║ ╦├─┤├─┤│├┤  │   ║ ║│ │ │ │├┬┘
